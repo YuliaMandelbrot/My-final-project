@@ -2,7 +2,11 @@
 
 
 <h3 align="center">Это мой финальный проект в рамках курса QA engineer от Nordic IT school!
-
+ <h3 align="center">Мои контакты👉
+  <a href="https://hh.ru/applicant/resumes/view?resume=517e4945ff0087372d0039ed1f736563726574" rel="nofollow"> <img src="https://camo.githubusercontent.com/ee514a91a0dce3d07c06bf554b3c20809fdb39d9b6cd43285fe636d7fc44c412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865616448756e7465722d6461726b726564" data-canonical-src="https://img.shields.io/badge/HeadHunter-darkred" style="max-width: 100%;"></a>
+   <a href="https://t.me/Betelgeuse27" rel="nofollow"> <img src="https://camo.githubusercontent.com/8135e8b1dee09d07d6e0931adb011254e52c1050005bec0beb2821974ada3a4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c7565" data-canonical-src="https://img.shields.io/badge/Telegram-blue" style="max-width: 100%;"></a>
+<a href="https://api.whatsapp.com/send?phone=79296088896" rel="nofollow"> <img src="https://camo.githubusercontent.com/82f028440012e9fb967c03bb484e1b5383a27ffc6798b84c1d6969c6a90e57c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d6461726b677265656e" data-canonical-src="https://img.shields.io/badge/WhatsApp-darkgreen" style="max-width: 100%;"></a>
+ 
 <details>
 <summary>My skills✔</summary>
 
